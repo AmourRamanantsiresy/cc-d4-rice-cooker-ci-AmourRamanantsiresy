@@ -8,6 +8,7 @@ Simulate the functionality of a rice cooker through this command-line interface 
 
 * Available languages : 
     - [Typescript](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/typescript)
+    - [Java](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/java)
 
 # Feature 
 
