@@ -2,26 +2,36 @@
 
 <img src="assets/rice-cooker-logo.png" />
 
-# RICE COOKER
+# RICE COOKER Go Lang
 
-Simulate the functionality of a rice cooker through this command-line interface (CLI).
+Use `Effective Go` for code style and format
 
-* Available languages : 
-    - [Typescript](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/typescript)
-    - [Java](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/java)
+# Requirements
 
-# Feature 
+To run this project, you'll need to install Go. You can download and install it [here](https://go.dev/doc/install).
 
-You can :
-- Plug and unplug
-- set cooking time
-- add water 
-- add rice
-- remove water
-- discard rice
-- power on / off
+# Installation
 
-The CLI will handle :
-- power outage
-- water leak
-- overflow
+1. Clone this repository
+
+```sh
+    git clone https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy.git
+```
+
+2. Go to the folder cc-d2-my-rice-cooker-AmourRamanantsiresy
+
+```sh
+    cd cc-d2-my-rice-cooker-AmourRamanantsiresy
+```
+
+3. Checkout to this current branch
+
+```sh
+    git checkout feature/go
+```
+
+4. Run the project
+
+```sh
+    go run cmd/main/main.go
+```
