@@ -1,0 +1,12 @@
+
+╔════════════════════════════════════╗ ╔════════════════════════════════════╗
+║                                    ║        
+║   1. Plug on / Off                 ║      1 cup  : 500 ml
+║   2. Turn On / Off                 ║      Max    : 10 cups
+║   3. Add water                     ║      
+║   4. Add Rice                      ║      Water  : xxx cups
+║   5. Remove water                  ║      Rice   : xxx cups
+║   6. Discard rice                  ║      Plug   : xxx
+║   7. Quite                         ║      Power  : xxx
+║                                    ║  
+╚════════════════════════════════════╝ ╚════════════════════════════════════╝
