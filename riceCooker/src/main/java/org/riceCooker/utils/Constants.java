@@ -31,12 +31,13 @@ public class Constants {
                 + " off and the appliance stopped.");
         MESSAGES.put("error:water-leakage", "kill : There was a water leak,"
                 + " and the appliance stopped.");
-        MESSAGES.put("kill:qUIte", "kill");
+        MESSAGES.put("kill:quite", "Rice-cooker was killed.");
         UI.put("banner", "rice-cooker-logo.txt");
         UI.put("error", "error.txt");
         UI.put("menu", "menu.txt");
         UI.put("result", "result.txt");
         UI.put("simpleResult", "simple-result.txt");
+        UI.put("title", "title.txt");
     }
 
     public static String getMessage(final String key) {

@@ -19,14 +19,14 @@ public class Handler {
 
     private static void powerHandler(final RiceCooker rc) {
         String title = !rc.getPower() ? "Power on" : "Power off";
-        show(title, new String[]{title});
+        show(getUi("title"), new String[]{title});
         rc.togglePower();
         show(getUi("result"), new String[]{title, "Done"}, title.length());
     }
 
     private static void addWaterHandler(final RiceCooker rc) {
         String title = "Add water cups.";
-        show(title, new String[]{title});
+        show(getUi("title"), new String[]{title});
         String cups = input("Number of cups of water you want to add : ");
         validateNumber(cups);
         rc.addWater(Integer.parseInt(cups));
@@ -35,7 +35,7 @@ public class Handler {
 
     private static void addRiceHandler(final RiceCooker rc) {
         String title = "Add Rice cups.";
-        show(title, new String[]{title});
+        show(getUi("title"), new String[]{title});
         String cups = input("Number of cups of rice you want to add : ");
         validateNumber(cups);
         rc.addRice(Integer.parseInt(cups));
@@ -44,7 +44,7 @@ public class Handler {
 
     private static void removeWaterHandler(final RiceCooker rc) {
         String title = "Remove water cups.";
-        show(title, new String[]{title});
+        show(getUi("title"), new String[]{title});
         String cups = input("Number of cups of water you want to remove : ");
         validateNumber(cups);
         rc.removeWater(Integer.parseInt(cups));
@@ -53,7 +53,7 @@ public class Handler {
 
     private static void discardRiceHandler(final RiceCooker rc) {
         String title = "Discard Rice cups.";
-        show(title, new String[]{title});
+        show(getUi("title"), new String[]{title});
         String cups = input("Number of cups of rice you want to discard : ");
         validateNumber(cups);
         rc.discardRice(Integer.parseInt(cups));
