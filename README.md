@@ -9,6 +9,12 @@ Simulate the functionality of a rice cooker through this command-line interface 
 * Available languages : 
     - [Typescript](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/typescript)
     - [Java](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/java)
+    - [Go Lang](https://github.com/hei-school/cc-d2-my-rice-cooker-AmourRamanantsiresy/tree/feature/go)
+
+* Are connected to Circle ci :
+    - [Typescript](https://github.com/AmourRamanantsiresy/cc-d4-rice-cooker-ci-AmourRamanantsiresy/tree/feature/typescript)
+    - [Java](https://github.com/AmourRamanantsiresy/cc-d4-my-rice-cooker-AmourRamanantsiresy/tree/feature/java)
+    - [Go Lang](https://github.com/AmourRamanantsiresy/cc-d4-rice-cooker-ci-AmourRamanantsiresy/tree/feature/go)
 
 # Feature 
 
