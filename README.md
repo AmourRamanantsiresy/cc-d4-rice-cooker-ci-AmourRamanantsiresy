@@ -4,6 +4,8 @@
 
 # RICE COOKER Go Lang
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/HsgbaC9PZq7hCaWFDCrmh1/RMYimosPAE4kULUzVZXpPj/tree/feature%2Fgo.svg?style=svg&circle-token=859056a56c29af14303c49b8d11b2d3ca0586981)](https://dl.circleci.com/status-badge/redirect/circleci/HsgbaC9PZq7hCaWFDCrmh1/RMYimosPAE4kULUzVZXpPj/tree/feature%2Fgo)
+
 Use `Effective Go` for code style and format
 
 # Requirements
