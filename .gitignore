@@ -1,3 +1,5 @@
 .idea
 riceCooker
 .vscode
+build
+node_modules
