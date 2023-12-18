@@ -2,7 +2,9 @@
 
 <img src="assets/rice-cooker-logo.png" />
 
-# RICE COOKER JAva
+# RICE COOKER Java
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/HsgbaC9PZq7hCaWFDCrmh1/RMYimosPAE4kULUzVZXpPj/tree/feature%2Fjava.svg?style=svg&circle-token=e0b5f03c6131da71dcb637e1255f04d74cccbc23)](https://dl.circleci.com/status-badge/redirect/circleci/HsgbaC9PZq7hCaWFDCrmh1/RMYimosPAE4kULUzVZXpPj/tree/feature%2Fjava)
 
 # Requirements
 
@@ -43,5 +45,6 @@ To run this project, you'll need to install Java and maven. You can install them
 ```sh
     java -jar target/riceCooker-1.0.jar
 ```
-# Check style : Sun
-Nb: after check style, the app do not work
+# Check style
+
+    Sun
