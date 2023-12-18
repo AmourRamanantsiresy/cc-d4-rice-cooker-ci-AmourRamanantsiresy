@@ -1,0 +1,19 @@
+version: 2.1
+orbs:
+  node: circleci/node@5.0.2
+
+jobs:
+  test_typescript_rice_cooker:
+    executor: node/default
+    steps:
+      - checkout
+      - node/install-packages:
+          pkg-manager: npm
+      - run:
+          command: npm test
+          name: Run tests
+
+workflows:
+  test_rice_cooker:
+    jobs:
+      - test_typescript_rice_cooker
